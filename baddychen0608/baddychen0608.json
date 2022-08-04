@@ -9,7 +9,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://github.com/atatrin2614/cat/raw/main/baddychen0608/0724.jar",
+"spider":"https://github.com/atatrin2614/cat/raw/main/baddychen0608/jar/0730.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2F0YXRyaW4yNjE0L2NhdC9tYWluL2JhZGR5Y2hlbjA2MDgvdHYvbGl2ZS50eHQ="
@@ -18,7 +18,7 @@
 
 "sites":[
 {"key":"小苹果","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nbys","name":"🐼泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nbys","name":"🐼泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/atatrin2614/cat/raw/main/baddychen0608/0724.jar"},
 {"key": "csp_xpath_网络搜集库qiumi","name": "JRKAN直播赛事(SP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/MeowXP/dj.json"},
 {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"Gitcafe","name":"小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},

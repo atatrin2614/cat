@@ -196,7 +196,7 @@
 {"key":"csp_XPath_bidiys","name":"哔嘀影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/MeowXP/bidiys2.json"},
 {"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/MeowXP/agefans.json"},
 {"key":"csp_xpath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/MeowXP/dm84.json"},
-{"key":"csp_xpath_yinghua","name":"樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/MeowXP/yinghua2.json"},
+{"key":"csp_xpath_yinghua","name":"樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/MeowXP/yinghua.json"},
 {"key":"csp_xpath_17skr","name":"路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/MeowXP/17skr.json"},
 {"key":"csp_xpath_wanmeikk","name":"完美看看(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/MeowXP/wanmeikk.json"},
 {"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/MeowXP/saohuotv2.json"},

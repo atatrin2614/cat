@@ -22,7 +22,7 @@
 {"key": "csp_xpath_网络搜集库qiumi","name": "JRKAN直播赛事(SP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/MeowXP/dj.json"},
 
 {"key":"csp_QQ","name":"🐧腾讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/atatrin2614/cat/raw/main/baddychen0608/jar/xzy.jar"}, 
-{"key":"csp_MGTV","name":"🥭芒果（官）","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/atatrin2614/cat/raw/main/baddychen0608/jar/xzy.jar"}, 
+//{"key":"csp_MGTV","name":"🥭芒果（官）","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/atatrin2614/cat/raw/main/baddychen0608/jar/xzy.jar"}, 
 {"key":"csp_IQIYI","name":"🥝爱奇艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/atatrin2614/cat/raw/main/baddychen0608/jar/xzy.jar"}, 
 
 //学习频道
@@ -30,6 +30,10 @@
 {"key": "学堂2","name": "小学学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/小学学习.txt"},
 {"key": "学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/初中学习.txt"},
 {"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/高中学习.txt"},
+
+{"key":"youku","name":"👑优酷(官)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]}, 
+{"key":"PpTV","name":"📺PPTV(官)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","少儿","其他片"]}, 
+{"key":"souhu","name":"🦊搜狐(官)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/sohu/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]}, 
 
 
 {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},

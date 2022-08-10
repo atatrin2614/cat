@@ -20,6 +20,14 @@
 {"key":"小苹果","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"🐼泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/atatrin2614/cat/raw/main/baddychen0608/0724.jar"},
 {"key": "csp_xpath_网络搜集库qiumi","name": "JRKAN直播赛事(SP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/MeowXP/dj.json"},
+
+//学习频道
+{"key": "学堂1","name": "儿童乐园","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/幼儿乐园.txt"},
+{"key": "学堂2","name": "小学学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/小学学习.txt"},
+{"key": "学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/初中学习.txt"},
+{"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/高中学习.txt"},
+
+
 {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"Gitcafe","name":"小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_hbys","name":"简隐","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY","jar": "https://gitea.com/qixiubaike163/m/raw/branch/main/0720.jar"},

@@ -465,6 +465,30 @@
 {"name":"自动解析","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+
+{"name":"M3U8解析","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"OK解析", "type": 0,"url": "https://okjx.cc/?url="},
+{"name":"铭人解析","type":0,"url":"https://parse.123mingren.com/?url="},
+{"name":"parwix解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"刚刚影视","type":0,"url":"https://vip.fuqizhishi.com/?v="},
+
+{"name":"CK解析","type":0,"url":"http://www.ckmov.vip/api.php?url="},
+{"name":"M1907","type":0,"url":"https://z1.m1907.cn/?jx="},
+{"name":"盘古云","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
+{"name":"ckplayer解析","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+{"name":"BL解析","type":0,"url":"https://svip.bljiex.cc/?v="},
+{"name":"夜幕解析","type":0,"url":"https://www.yemu.xyz/?url="},
+{"name":"云解析","type":0,"url":"https://jx.aidouer.net/?url="},
+{"name":"猪蹄解析","type":0,"url":"https://jx.iztyy.com/svip/?url="},
+{"name":"free解析","type":0,"url":"http://www.freeget.org/jx.php?url="},
+
+//{"name":"全民解析","type":0,"url":"http://api.wpsseo.cn/?v="},
+//{"name":"秒播解析","type":1,"url":"https://www.hfyrw.com/json.php?url="},
+//{"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url="}, 
+
+//{"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="}
+
+
 {"name":"星辰解析","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"秒播解析","type":1,"url":"https://www.hfyrw.com/json.php?url="},
 {"name":"293解析","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
@@ -492,7 +516,7 @@
 {"name":"3","type":1,"url":"https://www.aiaine.com/api/?key=kVqmG5dAQ5dZTcECw8&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
 {"name":"盘古视频解析","type":1,"url":"https://www.pangujiexi.com/pangu/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果"]}},
-{"name":"全民解析","type":1,"url":"http://api.wpsseo.cn/?v="},
+{"name":"全民解析","type":0,"url":"http://api.wpsseo.cn/?v="},
 
 {"name": "综合线路解析","type": 1,"url": "https://laisoyiba.com/mov/s/?sv=3&url="},
 {"name": "纯净/B站","type": 1,"url": "https://z1.m1907.cn/?jx="},

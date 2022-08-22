@@ -65,15 +65,7 @@
 {"key":"*番号资源","name":"*番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*鲨鱼资源","name":"*鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
-    {
-      "key": "zp098",
-      "name": "老鸭资源",
-      "type": 0,
-      "api": "http://laoyazy.vip/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    }
+{"key": "zp098","name": "老鸭资源","type": 0,"api": "http://laoyazy.vip/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0}
   ],
   "lives": [
     {

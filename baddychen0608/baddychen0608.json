@@ -27,10 +27,10 @@
 {"key":"csp_IQIYI","name":"🥝爱奇艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/atatrin2614/cat/raw/main/baddychen0608/jar/xzy.jar"}, 
 
 //学习频道
-{"key": "学堂1","name": "儿童乐园","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/幼儿乐园.txt"},
-{"key": "学堂2","name": "小学学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/小学学习.txt"},
-{"key": "学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/初中学习.txt"},
-{"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/高中学习.txt"},
+{"key": "学堂1","name": "儿童乐园","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/幼儿乐园.txt",jar":"https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/jar/bili.jar"},
+{"key": "学堂2","name": "小学学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/小学学习.txt",jar":"https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/jar/bili.jar"},
+{"key": "学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/初中学习.txt",jar":"https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/jar/bili.jar"},
+{"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/xx/高中学习.txt",jar":"https://raw.githubusercontent.com/atatrin2614/cat/main/baddychen0608/jar/bili.jar"},
 
 {"key":"csp_Blims_美食","name":"美食(SP)","type":3,"api":"csp_Blims","searchable":1,"quickSearch":0,"filterable": 1,"jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy.jar;md5;404b279a9b5accd5abcdf0764f574fde"},
 

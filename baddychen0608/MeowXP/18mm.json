@@ -1,0 +1,115 @@
+{
+	"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://18av.mm-cg.com/zh/",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {
+        "無碼AV":"uncensored_list/all",
+        "中文字幕AV":"chinese_list/all",
+        "H動畫":"animation_list/all",
+        "自拍影片":"dt_list/all"},
+    // 首页推荐视频的节点
+	"homeVodNode": "//div[@class='main']//div[@class='post']",
+    // 首页推荐视频的名称
+	"homeVodName": "//h3/a/text()",
+    // 首页推荐视频的id
+	"homeVodId": "/a/@href",
+    // 首页推荐视频的图片
+	"homeVodImg": "/a/img/@src",
+    // 首页推荐视频的简介
+	"homeVodMark": "/div/div/text()",
+	
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://18av.mm-cg.com/zh/{cateId}/{catePg}.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[@class='main']//div[@class='post']",
+	"cateVodName": "//h3/a/text()",
+	"cateVodId": "/a/@href",
+	"cateVodImg": "/a/img/@src",
+	"cateVodMark": "/div/div/text()",
+	
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址 
+	"dtUrl": "{vid}",
+    // 详情节点
+	"dtNode": "//body",
+    // 视频名
+	"dtName": "//div[@class='archive-title']/h1/b/text()",
+	"dtNameR": "",
+    // 视频图片
+	"dtImg": "//div[@id='dz_video']//img/@src",
+	//"dtImgR": "",
+    // 视频分类
+	"dtCate": "//div[@class='posts-inner-details-text']//span[@class='posts-inner-details-text-under']/ul/li[2]/span[2]/a/text()",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "//div[@class='posts-inner-details-text']//span[@class='posts-inner-details-text-left']/ul/li[4]/text()",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "//div[@class='posts-inner-details-text']/div/span[2]/ul/li[last()]",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "//div[@class='posts-inner-details-text']/div/span[1]/ul/li[2]",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "//div[@class='actor-right-details-images']//a/text()",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "//div[@class='posts-inner-details-text']/div/span[2]/ul/li[last()]",
+	"dtDirectorR": "",
+    // 视频简介
+	 "dtDesc": "//div[@class='posts-inner-details-text']/div/span[1]/ul/li[2]",
+    // 播放源节点  
+/*
+  "dtFromNode": "//div[@class='content video']",
+  "dtFromName": "/div/h1/text()", 
+   "dtUrlNode": "//div[@class='posts']",
+   "dtUrlSubNode": "//div[@class='post']",
+   "dtUrlId": "/a/@href",
+   "dtUrlName": "//h3/a/text()",
+   "playUrl": "{playUrl}",
+   "playUa": "",
+*/
+
+// 播放源节点  
+  "dtFromNode": "//body",
+  "dtFromName": "//div[@class='main']//div[@class='container_small']//div/h1/b/text()",
+  "dtUrlNode": "//div[@class='main']",
+  "dtUrlSubNode": "//div[@class='left']",
+  "dtUrlId": "/script[@type='text/javascript']/text()",
+  "dtUrlIdR": "//18av.mm-cg.com/([^\\s]*)\"",
+  "dtUrlName": "//div[@class='btnst']/a/text()",
+  "dtUrlNameR": "",
+  "playUrl": "https://18av.mm-cg.com/{playUrl}",
+  "playUa": "",
+
+/*
+  "searchUrl": "https://18av.mm-cg.com/search?wd={wd}",
+// 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+   "scVodNode": "//div[@class='main']//div[@class='post']",
+   "scVodName": "//h3/a/text()",
+   "scVodId": "/a/@href",
+   "scVodIdR": "/show/(\\w+).html",
+   "scVodImg": "/a/img/@src",
+   "scVodMark": "/div/div/text()"
+
+*/
+
+"filter":{
+          "uncensored_list/all":
+	   [{ "key": "cateId",
+          "name": "無碼AV",
+          "value":
+			   [{"n": "全部","v": "uncensored_list/all"},
+			    {"n": "一本道","v": "uncensored_makersr/32/一本道(1pondo)"},
+			    {"n": "加勒比","v": "uncensored_makersr/30/カリビアンコム(Caribbeancom)"},
+			    {"n": "加勒比PPV","v": "uncensored_makersr/40/カリビアンコムPPV(Caribbeancompr)"},
+                {"n": "天然娘 ","v": "uncensored_makersr/31/天然むすめ(10musume)"},
+	            {"n": "HEYZO","v": "uncensored_makersr/17/HEYZO"},
+	            {"n": "東京熱","v": "uncensored_makersr/29/東京熱(Tokyo Hot)"},
+	            {"n": "ガチん娘！","v": "uncensored_makersr/35/ガチん娘！(Gachinco)"},
+	            {"n": "啪啪","v": "uncensored_makersr/36/パコパコママ(pacopacomama)"},
+	            {"n": エロ","v": "uncensored_makersr/34/エッチな4610"},
+	            {"n": "人妻斬","v": "uncensored_makersr/38/人妻斬り0930"},
+	            {"n": "多人","v": "uncensored_makersr/126/トリプルエックス (XXX-AV)"}]
+		}]}
+}

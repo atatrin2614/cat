@@ -9,7 +9,7 @@
         "H動畫":"animation_list/all",
         "自拍影片":"dt_list/all"},
     // 首页推荐视频的节点
-	"homeVodNode": "//div[@class='main']//div[@class='post']",
+	"homeVodNode": "//div[@class='main']//div[@class='posts']",
     // 首页推荐视频的名称
 	"homeVodName": "//h3/a/text()",
     // 首页推荐视频的id
@@ -22,7 +22,7 @@
     // 分类页地址 {cateId} 分类id {catePg} 当前页
 	"cateUrl": "https://18av.mm-cg.com/zh/{cateId}/{catePg}.html",
     // 同上面的homeVod字段 分类列表中的视频信息
-	"cateVodNode": "//div[@class='main']//div[@class='post']",
+	"cateVodNode": "//div[@class='main']//div[@class='posts']",
 	"cateVodName": "//h3/a/text()",
 	"cateVodId": "/a/@href",
 	"cateVodImg": "/a/img/@src",

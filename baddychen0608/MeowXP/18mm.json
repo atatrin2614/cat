@@ -72,14 +72,15 @@
 
 // 播放源节点  
   "dtFromNode": "//body",
+  "dtFromNode": "//body",
   "dtFromName": "//div[@class='main']//div[@class='container_small']//div/h1/b/text()",
   "dtUrlNode": "//div[@class='main']",
   "dtUrlSubNode": "//div[@class='left']",
   "dtUrlId": "/script[@type='text/javascript']/text()",
-  "dtUrlIdR": "//18av.mm-cg.com/([^\\s]*)\"",
+  "dtUrlIdR": "//18av.mm-cg.com/js/player/fcf([^\\s]*)\"",
   "dtUrlName": "//div[@class='btnst']/a/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://18av.mm-cg.com/{playUrl}",
+  "playUrl": "https://18av.mm-cg.com/js/player/fcf{playUrl}",
   "playUa": "",
 
 /*

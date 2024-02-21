@@ -70,8 +70,7 @@
    "playUa": "",
 */
 
-// 播放源节点  
-  "dtFromNode": "//body",
+// 播放源节点 
   "dtFromNode": "//body",
   "dtFromName": "//div[@class='main']//div[@class='container_small']//div/h1/b/text()",
   "dtUrlNode": "//div[@class='main']",
